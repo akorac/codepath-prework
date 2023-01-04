@@ -16,7 +16,7 @@ Image of the school logo
 Button to generate an introduction
 
 Storyboard Submission Checklist
-* [x] User can input name, last name, school name into textfield Close Section
+* [x] User can input name, last name, school name into textfield 
 * [x] Screen shows picture of school logo/name
 * [x] User can select the academic year from segmented control
 * [x] Increase the number of pets label using stepper
